@@ -11,7 +11,7 @@ package org.example
 // and so on
 
 fun main() {
-    val num = 10
+    val num = 6
     var fib = fibonacci(num)
     println(fib)
 }
